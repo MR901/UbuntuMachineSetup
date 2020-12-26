@@ -1,4 +1,35 @@
 
+
+Setup 
+htop
+opencv - source
+
+
+
+---  
+
+## Install Git  
+[Reference](https://linuxize.com/post/how-to-install-git-on-ubuntu-18-04/)
+```
+# Step 1 - Updating the package index
+sudo apt update
+
+# Step 2 - Install
+sudo apt install git
+
+# Step 3 - Check
+git --version
+
+# Step 4 - Configuration
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
+#nano ~/.gitconfig
+
+# Step 5 - Check 
+git config --list
+
+```
+
 ---  
 
 ## Install Terminator  
@@ -12,6 +43,9 @@ sudo apt-get update
 
 # Step 3 - Install Terminator
 sudo apt-get install terminator
+
+# Step 4 - customize the layouts
+
 ```
 
 ---  
