@@ -1,0 +1,30 @@
+
+
+Things to Install
+
+Install Chrome, VLC, sublime text, gnome-tweaks
+
+Install pip3
+https://askubuntu.com/questions/778052/installing-pip3-for-python3-on-ubuntu-16-04-lts-using-a-proxy
+
+
+Install Terminator
+https://askubuntu.com/questions/829045/how-do-i-install-terminator
+
+Setup ZSH
+https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4
+https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
+
+Install Jupyter Notebook
+https://jupyter.org/install
+
+GNOME Extension
+https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome/Installation
+
+Install Virtual Env
+https://gist.github.com/Geoyi/d9fab4f609e9f75941946be45000632b
+
+Install NEMO
+https://unix-tech.in/install-nemo-file-manager-on-ubuntu-linux/
+
+
