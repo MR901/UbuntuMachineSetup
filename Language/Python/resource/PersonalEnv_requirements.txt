@@ -42,7 +42,7 @@ docutils==0.15.2
 dopamine-rl==2.0.5
 entrypoints==0.3
 ephem==3.7.7.0
-eventlet==0.25.1
+eventlet==0.31.0
 fbmessenger==6.0.0
 fbprophet==0.5
 ffmpeg-python==0.2.0
