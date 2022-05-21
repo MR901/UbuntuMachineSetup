@@ -109,6 +109,38 @@ color blue "^#.*"
 ```
   
 To enable text highlighting, make sure the following include statements are not commented out
+git clone https://github.com/scopatz/nanorc.git
+cd nanorc
+#make install
+./install.sh
+
+
+include ~/.nano/awk.nanorc
+include ~/.nano/c.nanorc
+include ~/.nano/css.nanorc
+include ~/.nano/debian.nanorc
+include ~/.nano/gentoo.nanorc
+include ~/.nano/html.nanorc
+include ~/.nano/java.nanorc
+include ~/.nano/js.nanorc
+include ~/.nano/json.nanorc
+include ~/.nano/makefile.nanorc
+include ~/.nano/man.nanorc
+include ~/.nano/markdown.nanorc
+include ~/.nano/nanorc.nanorc
+include ~/.nano/perl.nanorc
+include ~/.nano/php.nanorc
+include ~/.nano/python.nanorc
+include ~/.nano/ruby.nanorc
+include ~/.nano/sh.nanorc
+include ~/.nano/sed.nanorc
+include ~/.nano/sql.nanorc
+include ~/.nano/tcl.nanorc
+include ~/.nano/xml.nanorc
+include ~/.nano/zsh.nanorc
+
+
+
 ```
 ## Nanorc files
 include "/usr/share/nano/nanorc.nanorc"
