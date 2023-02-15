@@ -232,7 +232,7 @@ webencodings==0.5.1
 webexteamssdk==1.2
 websocket-client==0.54.0
 websockets==8.0.2
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 widgetsnbextension==3.5.1
 wordcloud==1.6.0
 wrapt==1.11.2
